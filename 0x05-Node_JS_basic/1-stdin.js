@@ -21,3 +21,5 @@ rl.on('line', (input) => {
 rl.on('close', () => {
   console.log("This important software is now closing");
 });
+
+module.exports = { rl };  // Exporting for potential testing
