@@ -26,3 +26,4 @@ describe('calculateNumber', function () {
     assert.strictEqual(calculateNumber(0, 0), 0);
   });
 });
+
