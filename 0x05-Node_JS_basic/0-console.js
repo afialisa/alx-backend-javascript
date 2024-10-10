@@ -1,7 +1,5 @@
 /**
- * Displays a message on the STDOUT.
- * @param {String} msg The message to display.
- * @author Bezaleel Olakunori <https://github.com/B3zaleel>
+ * a function that displays a message
  */
 const displayMessage = (msg) => {
   console.log(msg);
